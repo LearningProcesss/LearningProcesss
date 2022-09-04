@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Nice to see you!  
-Le me introduce myself for a moment.
+Let me introduce myself for a moment.
 
 I'm Mattia, 33 years old. Near 9 years of software development experience in different context and business.  
 Without fuzzy words i can describes myself as a normal person that simply love what it does.  
