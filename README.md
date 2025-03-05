@@ -3,19 +3,9 @@
 Nice to see you!  
 Let me introduce myself for a moment.
 
-I'm Mattia, 33 years old. Near 9 years of software development experience in different context and business.  
-Without fuzzy words i can describes myself as a normal person that simply love what it does.  
-Pushing my knowledge a step further, learming something that i don't know yet or well is what keep me happy about my job.  
-
-Actually in love with Android!
-
-My learning plan for the next months (a whole year maybe)
-
-- Android Development
-- Cross Platform Development => Flutter, Maui
-- Kubernetes
-- A repo to summarize all what is possible to know about Software Design
-- Introduce fix, feat to one of my repo at least
+I'm Mattia 10+ years of software development experience in different context and business.  
+Without fuzzy words i can describe myself as a normal person that simply love what it does.  
+Pushing my knowledge a step further learning something that i don't know yet or i don't master is what keep me happy about my job.  
 
 ## 🚀 Skills
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
